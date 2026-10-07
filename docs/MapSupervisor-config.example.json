@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "siyuan": {
+    "server": "https://siyuan.example.com/",
+    "token": "在这里填写 SiYuan Token",
+    "notebookId": "20250305001716-bvpgdom",
+    "targetDocumentId": "20261006230439-yzzw5z9"
+  },
+  "mimo": {
+    "baseUrl": "https://token-plan-cn.xiaomimimo.com/v1",
+    "apiKey": "在这里填写 tp- 开头的 MiMo API Key",
+    "model": "mimo-v2.5"
+  },
+  "monitoring": {
+    "intervalMinutes": 25,
+    "uploadScreenshotToSiyuan": false
+  }
+}
