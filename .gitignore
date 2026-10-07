@@ -1,11 +1,16 @@
 # Miscellaneous
 *.class
 *.lock
+!pubspec.lock
 *.log
 *.pyc
 *.swp
 .buildlog/
 .history
+.idea/
+*.iml
+MapSupervisor-config.json
+*-config.local.json
 
 
 
